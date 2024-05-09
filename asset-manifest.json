@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lumiosDec.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/lumiosDec.github.io/static/js/main.954aec07.js",
+    "static/js/453.1407b060.chunk.js": "/lumiosDec.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/logo.svg": "/lumiosDec.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lumiosDec.github.io/index.html",
+    "main.f855e6bc.css.map": "/lumiosDec.github.io/static/css/main.f855e6bc.css.map",
+    "main.954aec07.js.map": "/lumiosDec.github.io/static/js/main.954aec07.js.map",
+    "453.1407b060.chunk.js.map": "/lumiosDec.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.954aec07.js"
+  ]
+}
