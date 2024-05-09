@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "homepage": "https://lumiosDev.github.io/react-gh-pages",
 
-  
+
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
+    
 
   },
 
